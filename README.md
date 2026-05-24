@@ -10,6 +10,8 @@ Google uses this application to demonstrate how developers can modernize enterpr
 
 If you’re using this demo, please **★Star** this repository to show your interest!
 
+J'aime les cacahuètes
+
 **Note to Googlers:** Please fill out the form at [go/microservices-demo](http://go/microservices-demo).
 
 ## Architecture
